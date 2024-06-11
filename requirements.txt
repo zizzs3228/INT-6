@@ -1,0 +1,8 @@
+pytesseract
+pillow
+python-docx
+openpyxl
+pymupdf
+python-magic
+PyPDF2
+pdf2image
