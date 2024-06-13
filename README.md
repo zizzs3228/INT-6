@@ -6,7 +6,7 @@ git clone https://github.com/zizzs3228/INT-6.git && cd INT-6
 
 ### docker compose
 ```
-docker compose up -d
+docker compose up --build -d
 ```
 ### проверить output.log
 ```
